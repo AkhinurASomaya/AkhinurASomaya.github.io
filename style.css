@@ -1,0 +1,83 @@
+body{
+    font-family: 'Yeseva One', cursive;
+    color: rgb(43, 42, 42);
+}
+.Color{
+    color: orange;
+    font-family:'Times New Roman',cursive;
+}
+h1{
+    font-size: 50px;
+}
+p{ font-family: 'Times New Roman', Times, serif;
+    color: rgb(75, 73, 73);
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+.First-Part{
+    display: flex;
+
+}
+.part-width{
+    width:50%;
+    padding-left: 10%;
+}
+.part-width img{
+    width: 35%;
+    padding-top: 0%;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient( rgb(231, 216, 127),rgb(240, 108, 108));
+    padding: 10px 35px;
+    color: white;
+    font-weight: 300;
+    border-radius: 5px;
+}
+.Mission{
+    text-align: center;
+}
+
+#Line{
+    border-left: 4px solid;
+    border-image-slice: 1;
+    border-image: linear-gradient( rgb(236, 95, 149),rgb(103, 186, 241)) 20;
+   
+}
+.sec-width{
+    box-shadow: 10px 10px 40px gray;
+    margin-left:20px;
+    margin-right: 10px;
+    width: 20%;
+    padding-left: 4%;
+    border-radius: 2%;
+    background-color: rgb(248, 233, 233);
+}
+.sec-width img{
+    width: 40%;
+}
+.one-width{
+    box-shadow: 10px 10px 40px gray;
+    margin-left:15%;
+    margin-right: 10px;
+    width: 20%;
+    padding-left: 4%;
+    border-radius: 2%;
+    background-color: rgb(227, 242, 243);
+}
+.one-width img{
+    width: 40%;
+}
+.Third-width{
+    box-shadow: 10px 10px 40px gray;
+    margin-left:20px;
+    margin-right: 10px;
+    width: 20%;
+    padding-left: 4%;
+    border-radius: 2%;
+    background-color:rgb(245, 248, 230) ;
+}
+.Third-width img{
+    width: 40%;
+}
