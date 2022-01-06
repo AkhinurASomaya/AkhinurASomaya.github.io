@@ -11,8 +11,6 @@ h1{
 }
 p{ font-family: 'Times New Roman', Times, serif;
     color: rgb(75, 73, 73);
-    margin-bottom: 5%;
-    margin-top: 5%;
 }
 .First-Part{
     display: flex;
@@ -80,4 +78,30 @@ p{ font-family: 'Times New Roman', Times, serif;
 }
 .Third-width img{
     width: 40%;
+}
+.second-width img{
+    width: 70%;
+    padding-left:25%;
+}
+.second-width{
+    width: 70%;
+    padding-top:10%;
+    padding-left:50px;
+    text-align:left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+.Second-Part{
+    display: flex;
+    background-repeat: no-repeat;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.ColorF{color: crimson;
+}
+
+.Footer{
+    background-color: black;
+    color: white;
+    text-align: center;
 }
