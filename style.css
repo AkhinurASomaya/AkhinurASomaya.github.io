@@ -21,7 +21,7 @@ p{ font-family: 'Times New Roman', Times, serif;
     padding-left: 10%;
 }
 .part-width img{
-    width: 35%;
+    width: 45%;
     padding-top: 0%;
 }
 
@@ -93,7 +93,6 @@ p{ font-family: 'Times New Roman', Times, serif;
 }
 .Second-Part{
     display: flex;
-    background-repeat: no-repeat;
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -104,4 +103,12 @@ p{ font-family: 'Times New Roman', Times, serif;
     background-color: black;
     color: white;
     text-align: center;
+}
+.Bonus{
+    text-align: center;
+}
+
+.BonusSec{
+    display: flex;
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
